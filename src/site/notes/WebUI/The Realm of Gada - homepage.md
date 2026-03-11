@@ -11,6 +11,3 @@ Find here the collected lore of Gada, my home-brew fantasy world tailor-made for
 # Cosmology
 The Realm of Gada, just like our home of Earth, is but one of many worlds in a vast, inter-connected universe teeming with life. Seek here and ye shall find the lore beyond merely Gada itself.
 
-:::
-#webUI
-:::
