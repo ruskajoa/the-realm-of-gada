@@ -3,5 +3,6 @@
 ---
 
 ```aat-vertical
-elteveldt timeline, 
+elteveldt timeline
+dateDisplayFormat: {year}/{month}/{day}
 ```
