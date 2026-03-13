@@ -13,5 +13,5 @@ The continents are literally the face and one of the hands of the Numen god [[Th
 
 Dear reader, you may scour the lands of Gada via the *#lands* tag.
 # History
-Gada's shared history and the unique histories of it's lands may all be sought with the tag *#history*. Hundreds of years of lore cascading into itself through time in an endless fractal pattern. Perhaps, dear reader, you'd care to begin with the history of one of Gada's most fabled lands, [[History of Elteveldt\|Elteveldt]]?
+Gada's shared history and the unique histories of it's lands may all be sought with the tag *#history*. Hundreds of years of lore cascading into itself through time in an endless fractal pattern - stories found within stories, details within details. Perhaps, dear reader, you'd care to begin with the history of one of Gada's most fabled lands, [[History of Elteveldt\|Elteveldt]]?
 
