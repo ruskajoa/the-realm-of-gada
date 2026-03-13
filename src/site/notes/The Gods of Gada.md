@@ -70,10 +70,9 @@ Luna is the moon, that which commands the oceans and the tides of Gada.
 ## Those on Earth
 Created by Those in the Heavens, Those on Earth are the corporeal forms of any given realm - in this case Gada. They are the mountains, rivers, oceans, forests, plains, deserts, caves, volcanoes of the natural world, all bound together in embrace to create a realm. If Those in the Heavens are to be seen as the constituent parts of solar systems, Those on Earth may be seen as the constituent parts of planets - or realms, as they are called here.
 #### Dæra, the earth
-
-#### Tŵire, the river
-
+Dæra is the earth of Gada, his [[The Face of Dæra\|face]] and [[The Hands of Dæra\|hands]] forming its two main continents. Two more of Dæra's hands reach out from the sea, although he is believed to have seven in total. Dæra is often represented in illustrations as a compass, with his hands pointing west, south and east, and his face pointing north.
 #### Môrin, the sea
+#### Tŵire, the river
 
 #### Cædwyn, the forest
 
