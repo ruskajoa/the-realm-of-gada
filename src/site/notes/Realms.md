@@ -34,5 +34,7 @@ Celestials come from here.
 ## Pandemonium
 ## Carceri
 ## Hades
+# The Realm Betwixt
+The uninhabitable space between realms, where [[Constellations\|constellations]], [[The Gods of Gada#The Celestials\|celestials]] and other cosmic bodies roam, is known as the Realm Betwixt.
 
 #lore #cosmology
