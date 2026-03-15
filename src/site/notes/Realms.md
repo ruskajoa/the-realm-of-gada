@@ -13,7 +13,7 @@ Travel through realms is extremely resource-intensive, but utterly possible. As 
 
 A portal connects two places in separate realms by sending a link from one place to the other and closing the cosmic space between them within the link into one point which can be stepped through. The realms themselves stay in place and the cosmic space between is undisturbed, but the process is incredibly delicate - if two portal links intersect, it could have disastrous consequences. Luckily, the universe has gods to prevent that sort of thing from happening.
 ## The Realm of Gada
-Humanoids come from here.
+Gada is a realm of earth and sea, surrounded by a cascade of constellations and inhabited by various humanoid races.
 ## The Feywild
 Fey creatures come from here.
 ## The Shadowfell
